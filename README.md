@@ -1,2 +1,2 @@
-# Paper Summeries
-This repository is dedecated to host my research paper summeries. The content is based purely on my understanding and may not be accurate. These content is hosted in hope that it may help people understand some of the selected academic papers. A similar effort is done more concentrated on Set and String reconciliation and is available [here](https://github.com/String-Reconciliation-Ditributed-System/Paper).
+# Paper Summaries
+This repository is dedicated to hosting my research paper summaries. The content is based purely on my understanding and may not be accurate. These summaries are hosted in the hope that it may help people understand some of the selected academic papers. A similar effort is done more concentrated on Set and String reconciliation and is available [here](https://github.com/String-Reconciliation-Ditributed-System/Paper).
